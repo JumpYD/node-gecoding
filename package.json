@@ -1,0 +1,20 @@
+{
+  "name": "node-gecoding",
+  "version": "1.0.1",
+  "description": "This is a node module for gecoding.Using this module,we can gecoding a lot of address to GPS.The input could be csv File or txt File,which contains a lot of lines like \"中国人民银行四川分行，成都\"",
+  "main": "index.js",
+  "dependencies": {
+    "node-csv": "^0.1.2",
+    "nodegrass": "^0.0.3",
+    "sync-request": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "gecoding"
+  ],
+  "author": "Gavin.Xu",
+  "license": "ISC"
+}
