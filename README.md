@@ -18,7 +18,9 @@ $ npm install node-gecoding
   	```js
   	module.exports = {
 	  	bd_maptoken:'baidu-apikey',
-	  	tx_maptoken:'tengxun-apikey'
+	  	tx_maptoken:'tengxun-apikey',
+	  	//redis:'localhost',
+	  	//post:6379
   	}
   	
   	```
